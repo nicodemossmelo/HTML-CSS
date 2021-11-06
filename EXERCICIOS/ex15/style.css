@@ -1,0 +1,5 @@
+@charset "utf8";
+body {background-color: chartreuse; font-family:'Times New Roman', Times, serif; font-size: 20px;}
+h1 {color: darkred; background-color: rgb(4, 90, 119);}
+h2 {color: darkblue;}
+P {text-align: justify;}
